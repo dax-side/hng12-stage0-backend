@@ -7,7 +7,7 @@ This is a simple API developed for the HNG12 Backend Stage 0 task. It returns ba
 - The GitHub URL of the project's codebase.
 
 ---
-
+https://hng.tech/hire/nodejs-developers
 ## API Documentation
 
 ### Endpoint: `GET /`
@@ -20,3 +20,4 @@ When a GET request is made to the root endpoint, the API will respond with the f
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/yourusername/hng12-backend-task"
 }
+
